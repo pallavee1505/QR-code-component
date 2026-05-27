@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Project Screenshot](\images\Screenshot (13).png)
+![Project Screenshot]"\images\Screenshot (13).png"
 
 
 ## My process
