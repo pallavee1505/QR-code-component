@@ -10,7 +10,7 @@
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-
+  -[Author](#author)
 ## Overview
 
 ### The challenge
@@ -36,5 +36,7 @@ Users should be able to:
 ### What I learned
 
 During this challenge, I practiced centering a card perfectly in the middle of the screen using Flexbox and setting up global CSS variables for colors to match the style guide provided.
+## Author
 
+- Frontend Mentor - [@pallavee1505] (https://www.frontendmentor.io/profile/pallavee1505)
 
